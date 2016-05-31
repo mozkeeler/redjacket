@@ -1,0 +1,15 @@
+{
+  "title": "Red Jacket",
+  "name": "redjacket",
+  "version": "0.0.1",
+  "description": "Distrust Intermediate Certificates",
+  "main": "index.js",
+  "author": "mozkeeler@gmail.com",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
