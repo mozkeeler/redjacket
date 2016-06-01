@@ -1,0 +1,26 @@
+div.shrinkwrap {
+  display: inline-block;
+}
+
+li.removed {
+  font-style: italic;
+  color: grey;
+}
+
+li, h4, h5 {
+  cursor: default;
+}
+
+h4 {
+  margin: 8px;
+}
+
+h5 {
+  font-style: italic;
+  margin: 8px;
+  font-weight: lighter;
+}
+
+.hidden {
+  display: none;
+}
